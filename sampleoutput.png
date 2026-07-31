@@ -1,0 +1,26 @@
+Available Products
+
+101 Laptop Electronics ₹60000 Stock:5
+
+102 Phone Electronics ₹30000 Stock:10
+
+103 Shoes Fashion ₹2000 Stock:15
+
+104 Watch Accessories ₹5000 Stock:8
+
+============== INVOICE ==============
+
+Laptop        1     60000     60000
+Shoes         2     2000      4000
+Watch         1     5000      5000
+
+Subtotal : 69000
+Discount : 6900
+GST : 11178
+Final Bill : 73278
+
+Enter Payment Amount:
+75000
+
+Balance:
+1722
